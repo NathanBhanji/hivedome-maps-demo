@@ -7,7 +7,7 @@ export default function Document() {
         <meta name="description" content="Pitwall - F1 Prediction Game" />
         <link rel="icon" href="../icons/icon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin/>
         <link href="https://fonts.googleapis.com/css2?family=Manrope&display=swap" rel="stylesheet"/>
       </Head>
       <body>
