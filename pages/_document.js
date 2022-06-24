@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta name="description" content="Pitwall - F1 Prediction Game" />
+        <meta name="description" content="Hivedome Maps Demo" />
         <link rel="icon" href="../icons/icon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin/>
