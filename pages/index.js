@@ -189,7 +189,7 @@ export default function Home() {
         <div id="MapPanel" className="h-full w-2/3 p-4">
           {useIframeUrl == "" ? (
             <div className="h-full w-full rounded-lg shadow-md shadow-zinc-500 bg-blue-400 flex items-center justify-center flex-col">
-              <img src="/images/standard.png" className="px-10 w-full h-fit object-contain"/>
+              <img src="/images/Standard.png" className="px-10 w-full h-fit object-contain"/>
               <MapIcon className="h-20 w-20 text-white" />
             </div>
 
