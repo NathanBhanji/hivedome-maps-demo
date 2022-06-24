@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Fragment } from "react";
 import { CashIcon, CodeIcon, LocationMarkerIcon, MapIcon } from '@heroicons/react/outline';
-import {  SelectorIcon } from '@heroicons/react/solid';
+import {  SelectorIcon, CheckIcon } from '@heroicons/react/solid';
 import { Listbox, Transition } from "@headlessui/react";
 import { Head } from "next/head";
 import JSONPretty from "react-json-pretty";
